@@ -1,0 +1,2 @@
+Hello DiamondManagementSystem
+hacker301
